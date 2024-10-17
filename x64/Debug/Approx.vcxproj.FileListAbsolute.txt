@@ -1,0 +1,9 @@
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.MyForm.resources
+C:\Users\Super\Desktop\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache
+D:\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+D:\Чм\Approx\Approx\x64\Debug\Approx.MyForm.resources
+D:\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache
+D:\Учеба\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.AssemblyReference.cache
+D:\Учеба\Чм\Approx\Approx\x64\Debug\Approx.MyForm.resources
+D:\Учеба\Чм\Approx\Approx\x64\Debug\Approx.vcxproj.GenerateResource.cache

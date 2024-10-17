@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+D:\Учеба\Чм\Approx\Approx\MyForm.cpp(40,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Approx.vcxproj -> D:\Учеба\Чм\Approx\x64\Debug\Approx.exe
